@@ -35,4 +35,6 @@ for change branch u using command
 
 'git branch -d branch-name' Delete branch
 
-Practice
+## ***WHEN YOU HAVE ERROR LIKE UPSTREAM BRANCH
+
+' git push -f --set-upstream origin master '
