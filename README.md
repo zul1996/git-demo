@@ -35,5 +35,4 @@ for change branch u using command
 
 'git branch -d branch-name' Delete branch
 
-
-
+Practice
