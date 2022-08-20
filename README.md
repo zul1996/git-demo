@@ -38,3 +38,7 @@ for change branch u using command
 ## ***WHEN YOU HAVE ERROR LIKE UPSTREAM BRANCH
 
 ' git push -f --set-upstream origin master '
+
+## LEARN GIT
+
+adding text in README ...
